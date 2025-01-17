@@ -1,3 +1,7 @@
 personal:
 	name: venky
 	age: 27
+
+education:
+	college: 10
+	percente: 70
