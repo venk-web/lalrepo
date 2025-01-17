@@ -13,3 +13,7 @@ college:
 profession:
 	tcs
 	hcl
+
+bcom:
+	name
+	value
